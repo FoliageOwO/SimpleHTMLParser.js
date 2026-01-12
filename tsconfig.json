@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es2018",
+    "module": "none",
+    "outDir": "dist",
+    "declaration": true,
+    "removeComments": true,
+    "strict": true,
+    "lib": ["es2018"],
+    "skipLibCheck": true
+  },
+  "include": ["src/index.ts"]
+}
